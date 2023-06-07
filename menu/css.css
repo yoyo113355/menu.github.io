@@ -1,0 +1,8 @@
+body{background:purple}
+#left{float:left;width:33%;background:pink;margin:1.5px}
+#right{float:right;background:black;width:65%;margin:1.5px}
+.item1{border-left:solid #2244FF 1.5em;}
+.item2{border-left:solid #3344FF 2.5em;}
+.item3{border-left:solid #4455FF 3.5em;}
+.item4{border-left:solid #5566FF 4.5em;}
+.item5{border-left:solid #6677FF 5.5em;}
